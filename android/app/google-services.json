@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "134720253721",
+    "project_id": "traveltime3-e46e6",
+    "storage_bucket": "traveltime3-e46e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134720253721:android:5f255b352b07da4fd2df88",
+        "android_client_info": {
+          "package_name": "com.example.traveltime3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134720253721-5du15bq9pio7u4mnh9v5dfl0m39pbf8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.traveltime3",
+            "certificate_hash": "612ebac0d55970ab854e279960e15c6da2d60b06"
+          }
+        },
+        {
+          "client_id": "134720253721-p52r3e81mu230nb7k7tbns2gpg9t5h9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtMAinI6aZBh7MyhPXNSrjlDEDDbu--pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134720253721-p52r3e81mu230nb7k7tbns2gpg9t5h9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
